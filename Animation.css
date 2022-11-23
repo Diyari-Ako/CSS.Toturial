@@ -13,7 +13,7 @@
 	animation-timing-function: linear;
 	animation-duration: 5s;
 	*/
-	animation: 3s linear 0s infinite running mySlide;
+	animation: 3s linear 0s infinite running myColorChange;
 	
 }
 #box1:hover{

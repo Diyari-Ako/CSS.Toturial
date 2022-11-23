@@ -26,7 +26,12 @@ li:nth-child(even){
 li:nth-child(odd){
 	background-color: powderblue;
 }
-*/
+
 li:nth-child(5n+0){
 	background-color: yellow;
+}*/
+li{
+	list-style: circle;
+	list-style-type: circle;
+	list-style-image:url("0-02-05-158fbeb084b0043cb3e8f453c65174510d5798639b337a710c2f403d75196708_ae4ed909b8b64c53.jpg") ;
 }
